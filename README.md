@@ -103,6 +103,3 @@ A few things I learned or reinforced during this project:
 - **Streamlit** — interactive web demo
 - **scikit-learn** — evaluation metrics
 
-## License
-
-MIT
